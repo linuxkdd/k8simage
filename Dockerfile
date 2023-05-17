@@ -1,1 +1,1 @@
-FROM registry.k8s.io/pause:3.6
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
